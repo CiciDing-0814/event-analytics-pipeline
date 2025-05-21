@@ -11,4 +11,6 @@ This project sets up an event-driven architecture where user activity logs are s
 ---
 
 ## 📂 Project Structure
+## 🧭 Architecture Diagram
 
+![Architecture](architecture.png)
